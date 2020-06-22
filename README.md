@@ -12,6 +12,13 @@ This project requires following applications installed on your system -
 ## Initial Setup
 Run `npm install`
 
+### Important Note (Windows Users Only)
+This project uses docker volume mounting for development build, so if you are running this in Windows Machine please provide access to your project.
+- [One Time] Here is the guide to share folder to Docker instance - (https://docs.microsoft.com/en-in/archive/blogs/stevelasker/configuring-docker-for-windows-volumes)
+
+Every time you open command prompt you have to run this script to set environment variables before you execute commands further -
+`.\win_setup.ps1`
+
 ## Running on Docker Container with Hot-Reload (For Development)
 This can be used to run the application on local docker container while development.
 
