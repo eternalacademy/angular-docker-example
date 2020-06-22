@@ -5,9 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Prerequisite
 This project requires following applications installed on your system -
-    - Node (https://nodejs.org/en/download/)
-    - Docker Desktop (https://www.docker.com/products/docker-desktop)
-    - Angular-CLI (https://cli.angular.io/)
+- Node (https://nodejs.org/en/download/)
+- Docker Desktop (https://www.docker.com/products/docker-desktop)
+- Angular-CLI (https://cli.angular.io/)
 
 ## Initial Setup
 Run `npm install`
